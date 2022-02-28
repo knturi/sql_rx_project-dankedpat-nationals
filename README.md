@@ -1,4 +1,4 @@
-# Tennessee's Opioid Crisis
+# Tennessee's Opioid Crisis (analysis was conducted as part of hands on data science training at Nashville software school. Analysis conducted by - Kedir Turi)
 
 Opioids are a class of drugs including prescription pain relievers such as oxycodone and hydrocodone, the synthetic opioid fentanyl, and the illegal drug heroin. These drugs produce euphoria in addition to pain relief, which can lead to dependence, addiction, overdose, and death. 
 
